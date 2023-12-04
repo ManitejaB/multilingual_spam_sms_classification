@@ -3,13 +3,13 @@
 This project aims to develop a spam filter using Naive Bayes, Neural Network, and BERT models. The project involves data preprocessing, model training, and evaluation.
 
 ## Data Preprocessing
-The data used for this project is a collection of messages labeled as either spam or ham. The text of each email message is preprocessed by converting it to lowercase, removing special characters and numbers, and tokenizing it.
+The data used for this project is a collection of messages labeled as either spam or ham. The text of each message is preprocessed by converting it to lowercase, removing special characters and numbers, and tokenizing it.
 
 ## Naive Bayes Model
-A Naive Bayes classifier is a simple yet effective model for text classification. It is trained on the preprocessed email messages and used to predict whether new messages are spam or ham.
+A Naive Bayes classifier is a simple yet effective model for text classification. It is trained on the preprocessed messages and used to predict whether new messages are spam or ham.
 
 ## Neural Network Model
-A neural network model is a more complex model for text classification. It is trained on the preprocessed email messages and used to predict whether new messages are spam or ham.
+A neural network model is a more complex model for text classification. It is trained on the preprocessed messages and used to predict whether new messages are spam or ham.
 
 ## BERT Model
 BERT is a powerful language model that can be used for text classification. It is trained on a massive dataset of text and code, and it can learn complex relationships between words and phrases.
